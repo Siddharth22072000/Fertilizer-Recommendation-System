@@ -1,0 +1,1 @@
+model = pickle.load(open('classifier1.pkl','rb'))
